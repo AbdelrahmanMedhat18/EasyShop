@@ -1,4 +1,4 @@
-# handling
+# EasyShop
 
 A new Flutter project.
 
